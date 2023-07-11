@@ -1,0 +1,2 @@
+programda verileri okuduğu için görüntünün
+gelmesi 2-3 saniye alabilir.
